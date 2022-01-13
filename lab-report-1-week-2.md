@@ -1,4 +1,4 @@
-1.Setting up Visual studios
+Step 1.Setting up Visual studios
 ![alt text](bbb.JPG)
 * First you go to the official Visual Studios website 
 * then either pick mac or windows version of Visual Studios depending on your preference
