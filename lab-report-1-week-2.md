@@ -12,3 +12,5 @@ Step 2.Remotely Connecting
 * Then the terminal ask to say yes or no such as the image below and in this case say yes
 
 ![alt text](ghgfhgf.JPG)
+* Lastly put in your password and the page will look something like this after you have logged in
+* ![alt text](t.JPG)
