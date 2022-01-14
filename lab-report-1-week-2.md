@@ -24,5 +24,13 @@ Step 4. Moving Files
 * First make a java file with any name, for this demonstration I will use WhereAmI.java with contents in it.
 * Run the code with Javac and Java and check if it is working.
 * next use the scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/ where the username can be replaceable with your student username and it should prompt you a password
-* Lastly log into ieng6 with ssh again, and use ls and so you should see the file there in your home directory, now 
+* Lastly log into ieng6 with ssh again, and use ls and so you should see the file there in your home directory, now you can use javac and java when logged in.
  ![alt text](jj.JPG)
+Step 5. Moving Files
+* First go to terminal and paste ssh-keygen 
+* Next it will ask for your key and so you paste your file
+* when it ask for passphrase just press enter and it will allow you to move forward and your terminal should look like this
+![alt text](tt.JPG)
+* Next type in mkdir .ssh and logoff 
+* Now you can type your public key plus your username something like this scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys and it will log you in
+* ![alt text](oo.JPG)
