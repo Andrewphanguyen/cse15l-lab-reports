@@ -31,3 +31,6 @@ Step 5. Moving Files
 * Next it will ask for your key and so you paste your file
 * when it ask for passphrase just press enter and it will allow you to move forward and your terminal should look like this
 ![alt text](tt.JPG)
+* Next type in mkdir .ssh and logoff 
+* Now you can type your public key plus your username something like this scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys and it will log you in
+* ![alt text](oo.JPG)
