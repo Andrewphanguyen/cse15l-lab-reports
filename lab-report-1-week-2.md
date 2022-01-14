@@ -14,3 +14,8 @@ Step 2.Remotely Connecting
 ![alt text](ghgfhgf.JPG)
 * Lastly put in your password and the page will look something like this after you have logged in
 * ![alt text](t.JPG)
+Step 3. Trying Commands
+* You can try some commands in the terminal such as PWD which will return your current working directory 
+![alt text](aa.JPG)
+*There's other commands like ls which will list files/directories in the current directory and if you were to do it for the first time it would return perl5
+*You can also lest to log off by ctrl-D or run the command exit in your terminal
