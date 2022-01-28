@@ -39,5 +39,5 @@
 * or try writing commands with semicolons which will do each step like  cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ![alt text](dd.JPG)
  Last example counts keystrokes and shows how to run remotely saving time
- ![alt text](0.JPG)
+ ![alt text](0.jpg)
  
