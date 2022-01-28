@@ -42,4 +42,5 @@
  ![alt text](00.jpg)
 
  ![alt text](0.jpg)
- 
+ This took me about 3-5 minutes since its been a while since I last used the terminal to do so.However, given I now know what commands to use, I believe it would take me about a half a minute to copy something through SSH SCP. Assuming I would have to do this over 100 times, this would eat up about 50 minutes of working time.
+
