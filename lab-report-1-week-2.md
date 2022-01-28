@@ -38,6 +38,6 @@
 * Now try to do commands such as entering your username with a command such as ssh cs15lwi22abi@ieng6.ucsd.edu "ls"
 * or try writing commands with semicolons which will do each step like  cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ![alt text](dd.JPG)
-# counts keystrokes and shows how to run remotely saving time
-![alt text](Screenshot 2022-01-28 143215.jpg)
-
+ Last example counts keystrokes and shows how to run remotely saving time
+ ![alt text](0.jpg.JPG)
+ 
