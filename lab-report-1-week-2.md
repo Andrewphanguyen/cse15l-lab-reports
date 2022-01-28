@@ -34,6 +34,7 @@
 * Next type in mkdir .ssh and logoff 
 * Now you can type your public key plus your username something like this scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys and it will log you in
 * ![alt text](oo.JPG)
+* By doing this it made me have 1 less keystroke to deal with when logging in since I didn't have to type in my password.
 # Step 6.Optimizing Remote Running
 * Now try to do commands such as entering your username with a command such as ssh cs15lwi22abi@ieng6.ucsd.edu "ls"
 * or try writing commands with semicolons which will do each step like  cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
