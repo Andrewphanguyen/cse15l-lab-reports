@@ -13,7 +13,7 @@
 
 ![alt text](ghgfhgf.JPG)
 * Lastly put in your password and the page will look something like this after you have logged in
-* ![alt text](t.JPG)
+* ![alt text](t.PNG)
 # Step 3. Trying Commands
 * You can try some commands in the terminal such as PWD which will return your current working directory 
 ![alt text](aa.JPG)
