@@ -21,7 +21,7 @@
 
 
 # implementation mine
-![alt text](mine1)
-![alt text](mine2)
-![alt text](mine3)
+![alt text](mine1.png)
+![alt text](mine2.png)
+![alt text](mine3.png)
 
