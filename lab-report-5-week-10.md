@@ -30,3 +30,6 @@
 
 # Actual output
 ![alt text](actualtest2.png)
+
+* Based on the shown outputs, my implementation is shown to be the correct one.
+* Like the last test it seems as though a for loop or while loop made it so that it loop too many times so that the output created more then it needed to. I think just like the last test I think the problem is the unecessary for and while loops in the functions such as the findCloseParen and GetLinks where in my code it didn't do a loop when it was searching for a link whereas in the lab implementation it did when comparing the open and close parenthesis and also searching for the file directory. So I think the problem is that it had loops where it didn't need to.
